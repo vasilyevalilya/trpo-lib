@@ -1,5 +1,5 @@
 <?php
-namespace abbdinvasilyeva;
+namespace Abbdinvasilyeva;
 
 use RuntimeException;
 
